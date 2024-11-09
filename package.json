@@ -40,7 +40,7 @@
     "react-dom": "^16 || ^17"
   },
   "dependencies": {
-    "dompurify": "^2.0.8"
+    "dompurify": "^2.4.2"
   },
   "targets": {
     "main": {},
